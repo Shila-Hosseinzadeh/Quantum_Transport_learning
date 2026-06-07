@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 N=10
-t=1
+t=-1
 H=np.zeros((N,N))
 for i in range(N-1):
     H[i,i+1] = t
