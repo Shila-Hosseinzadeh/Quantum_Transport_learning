@@ -25,3 +25,8 @@ Ahmadi, Mohammad Taghi, et al., editors. *Advanced Nanoelectronics*. CRC Press, 
 ### Citation (Chicago)
 
 Ahmadi, Mohammad Taghi, Razali Ismail, and Sohail Anwar, eds. *Advanced Nanoelectronics*. CRC Press, 2018.
+
+
+## Fundamentals of Nanoelectronics
+
+https://www.youtube.com/playlist?list=PLtkeUZItwHK6lvGu8kFKBdhz3XaIZQDFj
