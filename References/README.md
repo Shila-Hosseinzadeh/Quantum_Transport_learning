@@ -28,5 +28,10 @@ Ahmadi, Mohammad Taghi, Razali Ismail, and Sohail Anwar, eds. *Advanced Nanoelec
 
 
 ## Fundamentals of Nanoelectronics
+#videos:
+
+nanoHUB-U Nanoelectronics - Part A: Basic Concepts
+
+https://www.youtube.com/@nanohubtechtalks
 
 https://www.youtube.com/playlist?list=PLtkeUZItwHK6lvGu8kFKBdhz3XaIZQDFj
