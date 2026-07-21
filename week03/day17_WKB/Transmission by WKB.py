@@ -1,10 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# پارامترها (واحدها برای سادگی نسبی در نظر گرفته شده‌اند)
-V0 = 1.0      # ارتفاع سد
-d = 1.0       # ضخامت سد
-
+V0 = 1.0    
+d = 1.0       
 E = np.linspace(0.01,0.99,400)
 
 kappa = np.sqrt(V0 - E)
