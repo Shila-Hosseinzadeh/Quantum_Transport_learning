@@ -10,6 +10,6 @@ EF_right = -0.2
 
 mask = (E>=EF_right) & (E<=EF_left)  #Energies only between Bias Window
 
-Current = np.trapz(T[mask],E[mask])
+Current = np.trapz(T[mask],E[mask])   #calculate area
 
 print(Current)
