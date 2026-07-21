@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 
 kB = 8.617e-5      # eV/K
 T = 300            # Kelvin
+#T = 10
+#T = 10
 
 EF = 0
 
